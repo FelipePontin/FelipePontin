@@ -1,1 +1,1 @@
-Desenvolvedor Front-End React JS
+Front-End Developer | React
