@@ -1,1 +1,1 @@
-Front-End Developer | React
+Front-End Developer | React | TypeScript
